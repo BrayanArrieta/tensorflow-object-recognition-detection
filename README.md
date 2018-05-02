@@ -104,10 +104,10 @@ Chen Sun, Menglong Zhu, Matthew Tang, Anoop Korattikara, Alireza Fathi, Ian Fisc
 Viacheslav Kovalevskyi, Kevin Murphy
 
 
-*pip install pillow
-*pip install lxml
-*pip install jupyter
-*pip install matplotlib
+* pip install pillow
+* pip install lxml
+* pip install jupyter
+* pip install matplotlib
 
-*pip install tensorflow
-*pip install tensorflow-gpu
+* pip install tensorflow
+* pip install tensorflow-gpu
