@@ -102,3 +102,12 @@ release includes:
 <b>Thanks to contributors</b>: Jonathan Huang, Vivek Rathod, Derek Chow,
 Chen Sun, Menglong Zhu, Matthew Tang, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Jasper Uijlings,
 Viacheslav Kovalevskyi, Kevin Murphy
+
+
+pip install pillow
+pip install lxml
+pip install jupyter
+pip install matplotlib
+
+pip install tensorflow
+pip install tensorflow-gpu
